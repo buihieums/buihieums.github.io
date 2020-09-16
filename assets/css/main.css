@@ -336,6 +336,11 @@
     height: 768px;
 }
 
+.form-main-content-img video {
+    width: 612px;
+    height: 768px;
+}
+
 .form-extra {
     position: fixed;
     right: 207px;
